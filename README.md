@@ -1,3 +1,10 @@
+<div id="header" align="center"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNlZWx2Z2VuanlrMXR1ZzEzNXB0NHlkY3Iyd2h5YjI4bmZubzUwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  
+</div>
+
+
+
 ### Hi there 👋
 ## I am passionate Sr. iOS Developer :iphone:
 <!--
