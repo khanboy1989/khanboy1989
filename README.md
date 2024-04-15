@@ -4,8 +4,7 @@
   <h3>  I am passionate Sr. iOS Developer :iphone: </h3>
 </div>
 
-
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **khanboy1989/khanboy1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
