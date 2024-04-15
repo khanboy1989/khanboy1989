@@ -1,9 +1,8 @@
 <div id="header" align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNlZWx2Z2VuanlrMXR1ZzEzNXB0NHlkY3Iyd2h5YjI4bmZubzUwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNlZWx2Z2VuanlrMXR1ZzEzNXB0NHlkY3Iyd2h5YjI4bmZubzUwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   <h2> Hey there 👋 I am Serhan Khan</h2> 
-  <h4>  I am passionate Sr. iOS Developer :iphone:, I am a UIKit master and eager to improve SwiftUI skills. </h4>
-  
- <image src= "https://developer.apple.com/swift/images/swift-og.png" witdh="200" height="200"/>
+  <h4>  I am passionate Sr. iOS Developer :iphone:, I am a UIKit master and eager to improve SwiftUI skills. </h4> 
+ <image src= "https://developer.apple.com/swift/images/swift-og.png" witdh="250" height="250"/>
 </div>
 
 
