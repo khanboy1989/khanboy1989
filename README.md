@@ -12,6 +12,7 @@
   </a>
 </p>
 
+<h1 align="center">Stats</h1>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanboy1989&theme=tokyonight"
 </div>
