@@ -16,7 +16,6 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanboy1989&theme=tokyonight"/>
 </div>
- 
 <h3 class="heading-element" dir="auto">Connect with Me</h3>
 <div align="center">
   <p dir="auto"> 
