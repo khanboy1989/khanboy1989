@@ -16,11 +16,6 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanboy1989&theme=tokyonight"
 </div>
-
-<p align="left" dir="auto">
-    <a href="https://github-readme-stats.vercel.app" rel="nofollow"><img width="39%" height="39%" alt="Top Langs" src="https://camo.githubusercontent.com/cdf1f3c52825a8db4cab26b5261dafd96d9182628a7c2ece2d04b3e18a58596c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4e69636f734e69636f6c616f75313626686964653d6f626a6563746976652d632c73776966742c632c632532422532422c636d616b6526686964655f70726f67726573733d66616c7365267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy1989&amp;hide=objective-c,swift,c,c%2B%2B,cmake&amp;hide_progress=false&amp;theme=tokyonight" style="max-width: 100%;"></a>
-    <a href="https://github-readme-stats.vercel.app/api?username=khanboy1989&amp;show_icons=true&amp;hide_rank=true&amp;theme=tokyonight&amp;&amp;show=prs_merged,prs_merged_percentage" rel="nofollow"><img width="29.3%" height="29.3%" alt="Nicos's GitHub stats" src="https://camo.githubusercontent.com/10a7583289344a5ff0dadf1197ddddcc098f94fefffde598307b1e6216f4f95d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4e69636f734e69636f6c616f7531362673686f775f69636f6e733d7472756526686964655f72616e6b3d74727565267468656d653d746f6b796f6e69676874262673686f773d7072735f6d65726765642c7072735f6d65726765645f70657263656e74616765" data-canonical-src="https://github-readme-stats.vercel.app/api?username=khanboy1989&amp;show_icons=true&amp;hide_rank=true&amp;theme=tokyonight&amp;&amp;show=prs_merged,prs_merged_percentage" style="max-width: 100%;"></a> 
-</p>
  
 <h3 class="heading-element" dir="auto">Connect with Me</h3>
 <div align="center">
