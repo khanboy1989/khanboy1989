@@ -13,10 +13,11 @@
 </p>
 
 <h1 align="center">Stats</h1>
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy1989&theme=tokyonight&hide=javascript,html,ruby,java" style="height: 200px; margin-right: 10px;"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanboy1989&theme=tokyonight" style="height: 200px;"/>
+<div style="display: flex; justify-content: center; align-items: stretch;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy1989&theme=tokyonight&hide=javascript,html,ruby,java" style="height: 100%; margin-right: 10px;"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanboy1989&theme=tokyonight" style="height: 100%;"/>
 </div>
+
 
 
 <div align="center">
