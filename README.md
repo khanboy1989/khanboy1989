@@ -13,8 +13,8 @@
 </p>
 
 
-<h1 align="center" class="row">Stats</h1>
-<div style="display: flex; justify-content: space-between; margin-top: 0;">
+<h1 align="center">Stats</h1>
+<div style="display: flex; justify-content: space-between; margin-top: 0;" class="row">
   <div class="column">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy1989&theme=tokyonight&hide=javascript,html,ruby,java" />
   </div>
