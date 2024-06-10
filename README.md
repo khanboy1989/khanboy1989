@@ -14,8 +14,11 @@
 
 
 <h1 align="center">Stats</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy1989&theme=tokyonight&hide=javascript,html,ruby,java" style="height: 100%; margin-top: 0;" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanboy1989&theme=tokyonight" style="height: 100%; margin-top: 0;" />
+<div style="display: flex; justify-content: space-between; margin-top: 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy1989&theme=tokyonight&hide=javascript,html,ruby,java" style="height: 100%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanboy1989&theme=tokyonight" style="height: 100%;" />
+</div>
+
 
 
 <div align="center">
