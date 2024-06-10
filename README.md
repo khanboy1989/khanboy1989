@@ -13,10 +13,11 @@
 </p>
 
 <h1 align="center">Stats</h1>
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy1989&theme=tokyonight&hide=javascript,html,ruby,java" style="height: 300px; object-fit: contain;"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanboy1989&theme=tokyonight" style="height: 300px; object-fit: contain;"/>
 </div>
+
 
 <div align="center">
   <h3 class="heading-element" dir="auto">Connect with Me</h3>
