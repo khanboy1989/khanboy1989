@@ -14,7 +14,7 @@
 
 
 <h1 align="center">Stats</h1>
-<div  class="row">
+<div class="row" align="center">
   <div class="column">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy1989&theme=tokyonight&hide=javascript,html,ruby,java" />
   </div>
