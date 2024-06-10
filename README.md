@@ -14,12 +14,7 @@
 
 <h1 align="center">Stats</h1>
 <div align="center">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=khanboy1989&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy1989&theme=tokyonight"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanboy1989&theme=tokyonight"/>
 </div>
 
