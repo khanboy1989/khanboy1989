@@ -27,13 +27,13 @@
   <a href="https://github.com/khanboy1989/FastNews">
     <img width="45%" height="45%" alt="FastNews" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=FastNews&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/khanboy1989/iOS-Concurrency-Demo">
+  <a href="https://github.com/khanboy1989/MBStockApp">
     <img width="45%" height="45%" alt="Concurrency Demo" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=iOS-Concurrency-Demo&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/khanboy1989/SwiftUI-SwiftData-Examples">
+  <a href="https://github.com/khanboy1989/SwiftDataSeries">
     <img width="45%" height="45%" alt="SwiftData Examples" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=SwiftUI-SwiftData-Examples&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/khanboy1989/OpenBanking-UIConcepts">
