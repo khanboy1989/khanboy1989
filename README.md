@@ -27,17 +27,17 @@
   <a href="https://github.com/khanboy1989/FastNews">
     <img width="45%" height="45%" alt="FastNews" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=FastNews&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/khanboy1989/MBStockApp">
-    <img width="45%" height="45%" alt="MBStockApp" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=MBStockApp&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/khanboy1989/ConcurrentNetworkLayer">
+    <img width="45%" height="45%" alt="ConcurrentNetworkLayer" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=ConcurrentNetworkLayer&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/khanboy1989/SwiftUI-SwiftData-Examples">
-    <img width="45%" height="45%" alt="SwiftData Examples" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=SwiftUI-SwiftData-Examples&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/khanboy1989/SwiftDataSeries">
+    <img width="45%" height="45%" alt="SwiftDataSeries" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=SwiftDataSeries&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/khanboy1989/OpenBanking-UIConcepts">
-    <img width="45%" height="45%" alt="OpenBanking UI" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=OpenBanking-UIConcepts&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/khanboy1989/MBStockApp">
+    <img width="45%" height="45%" alt="MBStockApp" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=MBStockApp&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
