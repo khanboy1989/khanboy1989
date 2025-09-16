@@ -2,7 +2,7 @@
 <div id="header" align="center"> 
   <img src="https://i.pinimg.com/originals/aa/dd/7e/aadd7e9b3bd757c82a475138365f4c09.jpg" width="300"/>
   <h2> Hey there 👋 I am Serhan Khan</h2> 
-  <h4>  I am passionate Sr. iOS Developer 📱. I am a UIKit master and eager to improve SwiftUI skills. </h4> 
+  <h4> I am a passionate Sr. iOS Developer 📱. I am a UIKit master and eager to improve SwiftUI skills. </h4> 
 </div>
 
 <h1 align="center">Skills</h1>
@@ -28,13 +28,13 @@
     <img width="45%" height="45%" alt="FastNews" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=FastNews&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/khanboy1989/MBStockApp">
-    <img width="45%" height="45%" alt="MBStockApp" rc="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=MBStockApp&theme=tokyonight&hide_border=true" />
+    <img width="45%" height="45%" alt="MBStockApp" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=MBStockApp&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/khanboy1989/SwiftDataSeries">
-    <img width="45%" height="45%" alt="SwiftData" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=SwiftUI-SwiftData-Examples&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/khanboy1989/SwiftUI-SwiftData-Examples">
+    <img width="45%" height="45%" alt="SwiftData Examples" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=SwiftUI-SwiftData-Examples&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/khanboy1989/OpenBanking-UIConcepts">
     <img width="45%" height="45%" alt="OpenBanking UI" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=OpenBanking-UIConcepts&theme=tokyonight&hide_border=true" />
