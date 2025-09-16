@@ -28,13 +28,13 @@
     <img width="45%" height="45%" alt="FastNews" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=FastNews&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/khanboy1989/MBStockApp">
-    <img width="45%" height="45%" alt="Concurrency Demo" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=iOS-Concurrency-Demo&theme=tokyonight&hide_border=true" />
+    <img width="45%" height="45%" alt="MBStockApp" rc="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=MBStockApp&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/khanboy1989/SwiftDataSeries">
-    <img width="45%" height="45%" alt="SwiftData Examples" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=SwiftUI-SwiftData-Examples&theme=tokyonight&hide_border=true" />
+    <img width="45%" height="45%" alt="SwiftData" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=SwiftUI-SwiftData-Examples&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/khanboy1989/OpenBanking-UIConcepts">
     <img width="45%" height="45%" alt="OpenBanking UI" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=OpenBanking-UIConcepts&theme=tokyonight&hide_border=true" />
