@@ -25,22 +25,22 @@
 <h2 align="center">My Packages</h2>
 <p align="center">
   <a href="https://github.com/khanboy1989/ConcurrentNetworkLayer">
-    <img width="45%" alt="ConcurrentNetworkLayer" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=ConcurrentNetworkLayer&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img width="45%" alt="ConcurrentNetworkLayer" src="https://opengraph.githubassets.com/1/khanboy1989/ConcurrentNetworkLayer" />
   </a>
 </p>
 
 <h2 align="center">Example Projects</h2>
 <p align="center">
   <a href="https://github.com/khanboy1989/FastNews">
-    <img width="45%" alt="FastNews" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=FastNews&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img width="45%" alt="FastNews" src="https://opengraph.githubassets.com/1/khanboy1989/FastNews" />
   </a>
   <a href="https://github.com/khanboy1989/MBStockApp">
-    <img width="45%" alt="MBStockApp" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=MBStockApp&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img width="45%" alt="MBStockApp" src="https://opengraph.githubassets.com/1/khanboy1989/MBStockApp" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/khanboy1989/SwiftDataSeries">
-    <img width="45%" alt="SwiftDataSeries" src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=SwiftDataSeries&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img width="45%" alt="SwiftDataSeries" src="https://opengraph.githubassets.com/1/khanboy1989/SwiftDataSeries" />
   </a>
 </p>
 
