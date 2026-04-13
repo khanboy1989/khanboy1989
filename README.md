@@ -10,17 +10,17 @@
 </p>
 
 <p align="center">
-  I build scalable, production-ready iOS apps with a strong focus on clean architecture and modern Swift.
+  I build scalable, production-ready iOS applications with a strong focus on clean architecture, modern Swift, and maintainable code.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 📱 Senior iOS Developer (Swift, SwiftUI, UIKit)
-- 🧠 Strong in Clean Architecture, MVVM, Dependency Injection
-- ⚡ Modern Swift Concurrency (async/await, Combine)
-- 🔁 Agile workflows (Scrum, code reviews, CI/CD)
+- 📱 Senior iOS Developer with hands-on experience building real-world applications
+- 🧠 Strong in Clean Architecture, MVVM, Dependency Injection, and modular design
+- ⚡ Experienced with Swift Concurrency (async/await) and Combine
+- 🔁 Agile mindset (Scrum, code reviews, CI/CD, team collaboration)
 - 🌍 Open to remote iOS opportunities across Europe
 
 ---
@@ -33,7 +33,30 @@
 
 ---
 
-## 💼 Featured Project
+## 🧪 Technical Assessment Project
+
+### ⚡ FroniusTask
+
+This project was developed as part of a technical assessment based on real job requirements. It demonstrates my approach to translating business needs into a scalable and maintainable iOS application.
+
+**Key Focus Areas:**
+- Clean Architecture (separation of concerns)
+- Modular and testable code structure
+- API integration & networking abstraction
+- Swift Concurrency (async/await)
+- Scalable UI design
+
+**What this project highlights:**
+- Working with real-world requirements
+- Making architectural decisions under time constraints
+- Writing production-ready, maintainable code
+- Designing reusable components
+
+👉 https://github.com/khanboy1989/FroniusTask
+
+---
+
+## 💼 Architecture Showcase
 
 ### 📊 MBStockApp
 
@@ -54,18 +77,29 @@ A production-style iOS project demonstrating scalable architecture and clean cod
 
 - 🔗 https://github.com/khanboy1989/ConcurrentNetworkLayer  
 - 🔗 https://github.com/khanboy1989/FastNews  
-- 🔗 https://github.com/khanboy1989/MBStockApp  
 - 🔗 https://github.com/khanboy1989/SwiftDataSeries  
+
+---
+
+## 🎥 YouTube Series
+
+I share iOS development content focused on real-world development and architecture.
+
+### ▶️ Featured Series
+https://www.youtube.com/watch?v=2xYvuxsRLyk&list=PLhWzWlNBRUxMWyhAtyY9qPKSIcoLBgx4z
+
+### 📺 Channel
+https://www.youtube.com/@SwiftwithSerhan-d7x
 
 ---
 
 ## 🧠 What I Bring
 
 - Clean, maintainable, scalable code
-- Strong problem-solving mindset
-- Real-world app architecture experience
-- Performance & memory management awareness
-- Team collaboration and ownership
+- Strong architectural thinking
+- Real-world app development experience
+- Reusable networking & infrastructure design
+- Ownership and collaboration in Agile teams
 
 ---
 
