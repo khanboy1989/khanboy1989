@@ -1,60 +1,60 @@
-<h1 align="center">About Me</h1>
-<div id="header" align="center"> 
-  <img src="https://i.pinimg.com/originals/aa/dd/7e/aadd7e9b3bd757c82a475138365f4c09.jpg" width="300"/>
-  <h2> Hey there 👋 I am Serhan Khan</h2> 
-  <h4> I am a passionate Sr. iOS Developer 📱 specializing in SwiftUI, Clean Architecture, and Swift Concurrency. </h4> 
-</div>
+# About Me
 
-<h1 align="center">Skills</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,git,swift,github,gitlab,firebase,figma,postman,kotlin,androidstudio" />
-  </a>
+  <img src="https://i.pinimg.com/originals/aa/dd/7e/aadd7e9b3bd757c82a475138365f4c09.jpg" width="300" alt="Header image" />
 </p>
 
-<h1 align="center">Stats</h1>
-<div class="row" align="center">
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy1989&theme=tokyonight&hide=javascript,html,ruby,java" />
-  </div>
-  <div class="column">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanboy1989&theme=tokyonight" />
-  </div>
-</div>
+<h2 align="center">Hey there 👋 I am Serhan Khan</h2>
+<h4 align="center">I am a passionate Sr. iOS Developer 📱 specializing in SwiftUI, Clean Architecture, and Swift Concurrency.</h4>
 
-<h2 align="center">My Packages</h2>
+# Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,git,swift,github,gitlab,firebase,figma,postman,kotlin,androidstudio" alt="Skills" />
+</p>
+
+# Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanboy1989&layout=compact&theme=tokyonight&hide=javascript,html,ruby,java" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanboy1989&theme=tokyonight" height="180" alt="Profile Details" />
+</p>
+
+# My Packages
+
 <p align="center">
   <a href="https://github.com/khanboy1989/ConcurrentNetworkLayer">
-    <img width="45%" alt="ConcurrentNetworkLayer" src="https://opengraph.githubassets.com/1/khanboy1989/ConcurrentNetworkLayer" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=ConcurrentNetworkLayer&theme=tokyonight" alt="ConcurrentNetworkLayer" />
   </a>
 </p>
 
-<h2 align="center">Example Projects</h2>
+# Example Projects
+
 <p align="center">
   <a href="https://github.com/khanboy1989/FastNews">
-    <img width="45%" alt="FastNews" src="https://opengraph.githubassets.com/1/khanboy1989/FastNews" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=FastNews&theme=tokyonight" alt="FastNews" />
   </a>
   <a href="https://github.com/khanboy1989/MBStockApp">
-    <img width="45%" alt="MBStockApp" src="https://opengraph.githubassets.com/1/khanboy1989/MBStockApp" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/khanboy1989/SwiftDataSeries">
-    <img width="45%" alt="SwiftDataSeries" src="https://opengraph.githubassets.com/1/khanboy1989/SwiftDataSeries" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=MBStockApp&theme=tokyonight" alt="MBStockApp" />
   </a>
 </p>
 
-<div align="center">
-  <h3>Connect with Me</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/serhan-khan-97b577103/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://medium.com/@serhankhan">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>
-    <a href="https://www.youtube.com/@SwiftwithSerhan-d7x">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/khanboy1989/SwiftDataSeries">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanboy1989&repo=SwiftDataSeries&theme=tokyonight" alt="SwiftDataSeries" />
+  </a>
+</p>
+
+# Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/serhan-khan-97b577103/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@serhankhan">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.youtube.com/@SwiftwithSerhan-d7x">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
